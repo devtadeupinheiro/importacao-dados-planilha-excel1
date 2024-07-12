@@ -1,2 +1,2 @@
-# importacao-dados-planilha-excel1
- Aplicacao teste criada para importar/exportar arquivos excel
+# importacao-dados-planilha-excel
+ Aplicação para importar dados de uma planilha excel.
